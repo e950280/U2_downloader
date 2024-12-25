@@ -4,9 +4,8 @@ Because it is found that when the image quality is 1080p or above, many of them 
 If it is progressive, you can download and install it directly. The following code is an example.
 Ps. I will add and organize it later, I just put it up to share first.
 
+# Setup
 pip install ffmpeg,pytubefix
-
-
 
 # Progressive streams contain both audio and video, so they can be downloaded directly  
 for stream in yt.streams.filter(progressive=True, file_extension='mp4'):  
