@@ -4,7 +4,7 @@ Because it is found that when the image quality is 1080p or above, many of them 
 If it is progressive, you can download and install it directly. The following code is an example.
 Ps. I will add and organize it later, I just put it up to share first.
 
-
+pip install ffmpeg,pytubefix
 
 
 
